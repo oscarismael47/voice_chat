@@ -1,0 +1,29 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-google
+livekit-plugins-noise-cancellation
+mem0ai
+duckduckgo-search
+langchain_community
+requests
+python-dotenv
+
+
+## create env
+# uv venv --python 3.13
+
+## activate env
+# Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+# .venv\Scripts\Activate.ps1
+
+## install dependencies
+# uv pip install -r requirements.txt
+
+
+# python agent.py console
+# python agent.py dev
+
+
+# https://www.youtube.com/watch?v=XAdc-eTubTs
+# https://www.youtube.com/watch?v=An4NwL8QSQ4
